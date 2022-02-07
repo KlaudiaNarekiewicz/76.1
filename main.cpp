@@ -65,7 +65,8 @@ void zad3()
   cout << deszyfruj(s, key, 6) << endl;
 }
 
-int main() {
+int main() 
+{
   zad1();
   zad2();
   zad3();
